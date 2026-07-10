@@ -1,0 +1,6 @@
+{
+  "name": "Neue Form Berlin",
+  "description": "Premium German design classics e-commerce showcase focusing on minimalist form, clarity, and future-forward design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
